@@ -1,5 +1,5 @@
 # CD_GPCC
-CD Theme research cluster allocation scripts on CH Children's Hospital General Purpose Computing Cluster (GPCC). This repository contains shell scripts for obtaining RStudio docker images and launching RStudio projects on the server. 
+CD Theme research cluster allocation scripts on BC Children's Hospital General Purpose Computing Cluster (GPCC). This repository contains shell scripts for obtaining RStudio docker images and launching RStudio projects on the server. 
 
 #### Lynn Lab Projects:
 - ARC
